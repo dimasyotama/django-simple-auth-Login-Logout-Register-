@@ -6,7 +6,7 @@
   ## Step One  
   Yo must be install the requirement that i used on this repository :  
   ```
-  pip install -r requirement.txt  
+  pip install -r requirements.txt  
   ```
   
   ## Step Two
